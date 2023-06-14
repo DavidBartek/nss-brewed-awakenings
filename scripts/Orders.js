@@ -29,7 +29,7 @@ const findEmployee = (order, allEmployees) => {
         }
     }
 
-    return orderEmployee // for some reason this is returning "null". Why?
+    return orderEmployee
 }
 
 export const Orders = () => {
